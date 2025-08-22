@@ -1,3 +1,4 @@
+# SQL Practice Project
 ## Hi there 👋
 ## Sales Data Analysis (SQL) 
 This project is a simple analysis of fictional sales data using SQL
