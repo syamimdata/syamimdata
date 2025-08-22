@@ -1,5 +1,19 @@
 ## Hi there 👋
 ## Sales Data Analysis (SQL) 
+This project is a simple analysis of fictional sales data using SQL
+## Skills Used:
+- SQL (SELECT, JOIN, GROUP BY, CASE)
+- Data Cleaning
+- Analytical Thinking
+## Objectives:
+- Identify top performing products
+- Calculate total sales by region
+- Monthly sales trend analysis
+## Tools:
+- SQLite
+- DB Fiddle
+- Excel (for preview)
+
 
 
 <!--
